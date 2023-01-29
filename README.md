@@ -29,4 +29,11 @@ This function first receives voice input through google assistant then using swi
 <br>Example, phrases like equal(s) to, equal(s) all map to the equal (=) operator. Similarly, divide, divide by, upon all map to (÷) operator.
 <br><br>
 <b>Screenshots</b><br>
- 
+ ![Screenshot CalcTalk](https://user-images.githubusercontent.com/56563643/215346784-79cb5f74-e657-4714-b529-17abb72c1532.png)
+<br>
+**_Figure 1:_** CalcTalk Main Screen<br>
+**_Figure 2:_** Expression voice input for multiply operator<br>
+**_Figure 3:_** Input display for multiply operator<br>
+**_Figure 4:_** Output display for multiply operator<br>
+<br><br>
+Same procedure is followed to solve expressions for other three operators [+, -, ÷].
