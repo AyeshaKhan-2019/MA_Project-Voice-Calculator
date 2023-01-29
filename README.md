@@ -15,7 +15,7 @@ This function is used to find and set OnClickListener to operator buttons, equal
 <br>Example, <br>
 a clr button has a functionality to clear output display, <br>
 (=) button will trigger function onEqual() or <br>
-() speak button will trigger function promptSpeechInput().<br>
+microphone icon button will trigger function promptSpeechInput().<br>
 Also, a common OnClickListener for operators is created then using for loop this function is applied to each operator button using built in function findViewById. 
 <br><br>
 <b>onEqual()</b><br>
